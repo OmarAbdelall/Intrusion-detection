@@ -108,7 +108,7 @@ print(classification_report(y_testDoS, Y_DoS_pred))
 To run the project, follow these steps:<br>
 1- Clone the repository:
 ```
-git clone https://github.com/MTH410/NSL-KDD.git 
+git clone https://github.com/OmarAbdelall/NSL-KDD.git 
 cd NSL-KDD
 ```
 2- Ensure you have the required datasets (NSL_KDD_Train.csv and NSL_KDD_Test.csv) in the project directory.<br>
