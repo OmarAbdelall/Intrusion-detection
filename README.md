@@ -19,7 +19,7 @@ The project utilizes the NSL-KDD dataset to train and test a Decision Tree Class
 ## Introduction 
 Network intrusion detection is a critical task for maintaining the security of computer networks.<br>
 This project leverages the NSL-KDD dataset to train a Decision Tree Classifier that can detect various types of network attacks, 
-such as DoS, Probe, R2L, and U2R attacks<br>
+such as DoS, Probe, R2L, and U2R attacks.<br>
 
 ## Dataset
 The project uses the NSL-KDD dataset, which is a refined version of the KDD'99 dataset.<br>
